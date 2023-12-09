@@ -1,2 +1,3 @@
 # demo
-My first project
+My first project.
+This is ecommerce project.
